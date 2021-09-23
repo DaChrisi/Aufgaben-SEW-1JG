@@ -1,0 +1,5 @@
+colorama
+system
+math
+pyfiglet
+time
